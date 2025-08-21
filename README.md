@@ -44,6 +44,7 @@ This project aim to:
 # Total Sales by Fat Content
 
 - **Objective:** Measure impact of fat content on sales
+  
 - **Chart Type:** Donut Chart
 
 # Total Sales by Item Type
@@ -80,7 +81,7 @@ This project aim to:
 <h2><a class="anchor" id="technologies--tools"></a>Technologies & Tools</h2>
 
 - **PowerBI** (Dax, interactive dashboard)
-- **version control:**Git/GitHub
+- **version control:** Git/GitHub
 
 
 ---
