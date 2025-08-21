@@ -1,5 +1,5 @@
 # Vendor Performance Analysis
-_This project analyzes Blinkit’s grocery sales dataset to understand sales performance, customer satisfaction using Python, SQL, PowerBI._
+_This project analyzes Blinkit’s grocery sales dataset to understand sales performance, customer satisfaction using  PowerBI._
 
 ---
 ## Contents
